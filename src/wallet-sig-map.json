@@ -1,0 +1,77 @@
+{
+    "0x940d3c60": {
+        "abi": ["address", "uint256", "bytes"],
+        "format": ["target", "value", "calldata"],
+        "type": "simple"
+    },
+    "0x9e5d4c49": {
+        "abi": ["address", "uint256", "bytes"],
+        "format": ["target", "value", "calldata"],
+        "type": "simple"
+    },
+    "0xb61d27f6": {
+        "abi": ["address", "uint256", "bytes"],
+        "format": ["target", "value", "calldata"],
+        "type": "simple"
+    },
+    "0x51945447": {
+        "abi": ["address", "uint256", "bytes"],
+        "format": ["target", "value", "calldata"],
+        "type": "simple"
+    },
+    "0xf34308ef": {
+        "abi": ["address", "uint256", "bytes"],
+        "format": ["target", "value", "calldata"],
+        "type": "simple"
+    },
+    "0x912ccaa3": {
+        "abi": ["address[]", "uint256[]", "bytes[]"],
+        "format": ["target[]", "value[]", "calldata[]"],
+        "type": "batch"
+    },
+    "0x18dfb3c7": {
+        "abi": ["address[]", "bytes[]"],
+        "format": ["target[]", "calldata[]"],
+        "type": "batch"
+    },
+    "0x1f8e9e0f": {
+        "abi": ["address[]", "uint256[]", "bytes[]"],
+        "format": ["target[]", "value[]", "calldata[]"],
+        "type": "batch"
+    },
+    "0x47e1da2a": {
+        "abi": ["address[]", "uint256[]", "bytes[]"],
+        "format": ["target[]", "value[]", "calldata[]"],
+        "type": "batch"
+    },
+    "0xabc5345e": {
+        "abi": ["tuple(address,uint256,bytes)[]"],
+        "format": ["(target, value, calldata)[]"],
+        "type": "batch"
+    },
+    "0x541d63c8": {
+        "abi": ["address", "uint256", "bytes", "bytes"],
+        "format": ["target", "value", "calldata", "operation"],
+        "type": "simple"
+    },
+    "0x7bb37428": {
+        "abi": ["address", "uint256", "bytes", "bytes"],
+        "format": ["target", "value", "calldata", "operation"],
+        "type": "simple"
+    },
+    "0x5c1c6dcd": {
+        "abi": ["address", "uint256", "bytes"],
+        "format": ["target", "value", "calldata"],
+        "type": "simple"
+    },
+    "0x34fcd5be": {
+        "abi": ["address", "uint256", "bytes"],
+        "format": ["target", "value", "calldata"],
+        "type": "simple"
+    },
+    "0x0000189a": {
+        "abi": ["address", "uint256", "bytes"],
+        "format": ["target", "value", "calldata"],
+        "type": "simple"
+    }
+}
