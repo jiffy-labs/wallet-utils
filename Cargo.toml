@@ -2,7 +2,11 @@
 name = "wallet-utils"
 version = "0.1.0"
 edition = "2021"
-
+authors = ["Gautam G Sabhahit <gautamgsabhahit@gmail.com>"]
+description = "A Rust crate for decoding ABI-encoded wallet calldata based on method selectors"
+repository = "https://github.com/jiffy-labs/wallet-utils"
+license = "MIT"
+readme = "README.md"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
