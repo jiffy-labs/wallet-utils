@@ -1,4 +1,3 @@
-use alloy_primitives::{Address, U256};
 use alloy_sol_types::{sol, SolType};
 use hex::decode;
 use serde::Deserialize;
@@ -9,7 +8,6 @@ use std::fs;
 #[derive(Deserialize)]
 struct FunctionInfo {
     abi: Vec<String>,
-    format: Vec<String>,
     r#type: String,
 }
 
